@@ -3,16 +3,6 @@
 /* CSS Document */
 
 /*------------------------------------------------------------------
-
-Template Name:      GST Tax HTML Website Template    
-Version:            1.0.0
-Created Date:       30/08/2017 
-Author: EaseTemplate
-Author URL: https://easetemplate.com/
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
-
-------------------------------------------------------------------
 [CSS Table of contents]
 
 1.  Body / Typography 
@@ -65,7 +55,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 -----------------------------------*/
 
 body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; letter-spacing: 0px; color: #626b70; font-weight: 400; line-height: 32px; background-color: #f7f8fc; }
-h1, h2, h3, h4, h5, h6 { font-weight: 600; color: #ffffff; font-family: 'Source Sans Pro', sans-serif; margin: 0px 0px 15px 0px; letter-spacing: 0px; }
+h1, h2, h3, h4, h5, h6 { font-weight: 600; color: #1281e2; font-family: 'Source Sans Pro', sans-serif; margin: 0px 0px 15px 0px; letter-spacing: 0px; }
 h1 { font-size: 34px; line-height: 42px; }
 h2 { font-size: 30px; line-height: 40px; }
 h3 { font-size: 24px; line-height: 32px; }
@@ -316,7 +306,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 /*--------------------
     5.1 Header Regular 
    ----------------------*/
-.logo { }
+.logo { width: 75%; }
 .top-bar { background-color: #1281e2; border-bottom: #2592f2 1px solid; padding-top: 0px; padding-bottom: 0px; }
 .call-info { margin-top: 5px; margin-bottom: 5px; }
 .call-text { font-size: 15px; color: #95cdfd; font-weight: 600; }
